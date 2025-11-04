@@ -1,0 +1,13 @@
+[package]
+name = "generic-builders"
+version = "1.0.0"
+edition = "2024"
+description = "Builders to wrap structs that don't have any"
+homepage = "https://github.com/wdonne/generic-builders"
+repository = "https://github.com/wdonne/generic-builders"
+license = "BSD-2"
+readme = "README.md"
+keywords = ["builder"]
+exclude = ["*.iml"]
+
+[dependencies]
