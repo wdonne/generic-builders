@@ -1,3 +1,3 @@
 # Generic Builders for Rust
 
-Builders to wrap structs that don't have any.
+Builders to wrap structs that don't have any. See the [docs](https://docs.rs/generic-builders/latest/generic_builders/). 
